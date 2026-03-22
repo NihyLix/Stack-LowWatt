@@ -1,4 +1,4 @@
-# Fiche technique — Matériel de virtualisation Proxmox pour Stack LowWatt (SLW)
+# Fiche technique — Matériel pour virtualisation Proxmox
 
 ## 1. Objectif matériel retenu
 
